@@ -27,12 +27,6 @@
     "uuid",
     "unique"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
   "author": "Domonkos Pal <public@dpal.hu> (https://github.com/Paldom)",
   "license": "MIT",
   "bugs": {
